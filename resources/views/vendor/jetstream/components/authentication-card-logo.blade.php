@@ -1,0 +1,1 @@
+<img class="h-24 w-24 item-center" src="{{asset('img/home/logo2.png')}}" >

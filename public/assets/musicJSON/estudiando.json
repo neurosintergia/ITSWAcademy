@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "playlist":"La fuerza vital del cielo anterior",
+        "artista":"Manuel Cervantes",
+        "nombre" : "Itsw Academy",
+        "url":"assets/music/meditacion.mp3",
+        "duracion":"00:00 s"
+    },
+    {
+        "id":2,
+        "playlist":"Fluir en el sin yo",
+        "artista":"Ruth Cerezo",
+        "nombre" : "Neurosintergia",
+        "url":"assets/music/meditacion1.mp3",
+        "duracion":"00:00 s"
+    }
+   
+
+
+]

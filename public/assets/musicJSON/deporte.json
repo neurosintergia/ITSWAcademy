@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "playlist":"TSSv2",
+        "artista":"IoT 2021",
+        "nombre" : "Itsw Academy",
+        "url":"assets/music/TSSv2.mp3",
+        "duracion":"3:23 s"
+    },
+    {
+        "id":2,
+        "playlist":"Marketing-Ventas",
+        "artista":"El uso de tecnologías en ventas",
+        "nombre" : "Intelisoftw",
+        "url":"assets/music/Mrk-Ventas.mp3",
+        "duracion":"3:45 s"
+    }
+
+]

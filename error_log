@@ -1,0 +1,2 @@
+[22-Jul-2022 23:12:38 Europe/Madrid] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.3.33. in /home2/juanhern/public_html/juanhernandezcruz.com.mx/JHC/vendor/composer/platform_check.php on line 24
+[22-Jul-2022 23:13:19 Europe/Madrid] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.3.33. in /home2/juanhern/public_html/juanhernandezcruz.com.mx/JHC/vendor/composer/platform_check.php on line 24

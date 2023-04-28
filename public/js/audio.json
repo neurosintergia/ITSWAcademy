@@ -1,0 +1,36 @@
+{
+
+    "songs":[
+
+        
+        {
+            "id":0,
+            "name":"Sanación",
+            "author":"Ruth Cerezo",
+            "song":"music/meditacion.mp3",
+            "image":"img/bh1.jpg"
+        },
+        {
+            "id":1,
+            "name":"Equilibrio",
+            "author":"Ruth Cerezo 2",
+            "song":"music/meditacion1.mp3",
+            "image":"img/bi1.jpg"
+        },
+        {
+            "id":2,
+            "name":"Expansión de conciencia",
+            "author":"Ruth Cerezo 2",
+            "song":"music/meditacion2.mp3",
+            "image":"img/an.png"
+        },
+        {
+            "id":3,
+            "name":"Conciencia de unidad",
+            "author":"Ruth Cerezo 2",
+            "song":"music/meditacion3.mp3",
+            "image":"img/an.png"
+        }
+    
+    ]
+}

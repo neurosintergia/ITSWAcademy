@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+        "playlist":"Sanación",
+        "artista":"Ruth Cerezo",
+        "nombre" : "Meditación NS",
+        "url":"music/meditacion.mp3",
+        "duracion":209
+    },
+    {
+        "id":2,
+        "playlist":"Equilibrio",
+        "artista":"Ruth Cerezo",
+        "nombre" : "Meditación NS",
+        "url":"music/meditacion1.mp3",
+        "duracion":344
+    },
+    {
+        "id":3,
+        "playlist":"Unidad de conciencia",
+        "artista":"Ruth Cerezo",
+        "nombre" : "Meditación NS",
+        "url":"music/meditacion2.mp3",
+        "duracion":198
+    }
+    ,
+    {
+        "id":4,
+        "playlist":"Unidad de conciencia",
+        "artista":"Ruth Cerezo",
+        "nombre" : "Meditación NS",
+        "url":"music/meditacion2.mp3",
+        "duracion":198
+    }
+  
+]

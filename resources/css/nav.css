@@ -1,0 +1,10 @@
+
+  #navigation-menu{
+    height: calc(100vh - 4rem);
+    color: black;
+  }
+
+  .navigation-link:hover .navigation-submenu{
+    display: block !important;
+    color: black;
+  }
